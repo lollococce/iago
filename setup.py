@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="iago",
-    version="0.2.4",
+    version="0.2.5",
     author="Lorenzo Coacci",
     author_email="lorenzo@coacci.it",
     description="The package contains your python assistant for Speech Recognition and Text to Speech ",
