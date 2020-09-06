@@ -1,0 +1,5 @@
+pandas
+playsound
+pyttsx3
+speech_recognition
+golog
