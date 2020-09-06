@@ -20,7 +20,6 @@ setuptools.setup(
        'pandas',
        'playsound',
        'pyttsx3',
-       'SpeechRecognition',
        'golog'
     ],
     classifiers=[
