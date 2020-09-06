@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="iago",
-    version="0.2.1",
+    version="0.2.2",
     author="Lorenzo Coacci",
     author_email="lorenzo@coacci.it",
     description="The package contains your python assistant for Speech Recognition and Text to Speech ",
@@ -20,7 +20,8 @@ setuptools.setup(
        'pandas',
        'playsound',
        'pyttsx3',
-       'golog'
+       'golog',
+       'SpeechRecognition'
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
