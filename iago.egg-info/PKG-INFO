@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: iago
+Version: 0.2.7
+Summary: The package contains your python assistant for Speech Recognition and Text to Speech 
+Home-page: https://github.com/lollococce/iago
+Author: Lorenzo Coacci
+Author-email: lorenzo@coacci.it
+License: MIT
+Description: # Welcome!
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Description-Content-Type: text/markdown

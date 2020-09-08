@@ -1,0 +1,9 @@
+README.md
+setup.py
+iago/__init__.py
+iago/iago.py
+iago.egg-info/PKG-INFO
+iago.egg-info/SOURCES.txt
+iago.egg-info/dependency_links.txt
+iago.egg-info/requires.txt
+iago.egg-info/top_level.txt
